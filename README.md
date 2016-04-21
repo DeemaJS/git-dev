@@ -8,4 +8,4 @@ simple my development site
 5. git reset --hard //restore snap
 6. use git log
 7. git rm (-r) //remove files
-8. git checkout #hash //move to commit
+8. git checkout #hash $file //move to commit and $files

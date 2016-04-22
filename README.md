@@ -9,3 +9,4 @@ simple my development site
 6. use git log // > file - changes to file
 7. git rm (-r) //remove files
 8. git checkout #hash $file //move to commit and $files
+9. git diff // "@{yesterday}" different for commit

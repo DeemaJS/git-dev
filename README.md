@@ -6,7 +6,7 @@ simple my development site
 3. git add . //all tracked files
 4. git commit -am ""
 5. git reset --hard //restore snap
-6. use git log // > file - changes to file
+6. git log // > file - changes to file, use less (q-quit)
 7. git rm (-r) //remove files
 8. git checkout #hash $file //move to commit and $files
 9. git diff // "@{yesterday}" different for commit

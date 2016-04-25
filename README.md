@@ -10,4 +10,5 @@ simple my development site
 7. git rm (-r) //remove files
 8. git checkout #hash $file //move to commit and $files
 9. git diff // "@{yesterday}" different for commit
-10. git pull
+10.git pull
+11.use grep & find linux command

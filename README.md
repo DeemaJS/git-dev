@@ -1,7 +1,7 @@
 # git-dev
 simple my development site
 
-1. 
+1. git config --global user.name "X" // user.email
 2. git init
 3. add .gitignore
 4. git add . //all tracked files

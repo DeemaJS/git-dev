@@ -13,3 +13,4 @@ simple my development site
 9. git diff // "@{yesterday}" different for commit
 10.git pull // good request
 11.use grep & find linux command
+12.GIT_DIR && git bare //poor rep
